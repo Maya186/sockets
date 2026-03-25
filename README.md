@@ -24,34 +24,34 @@ traceroute.exe -d 8.8.8.8  # с обратным DNS
 
 ### 2. Запуск с доменным именем (google.com)
 
-![Запуск с доменом](c:\Projects\traceroute\2.png)
+![Запуск с доменом](2.png)
 
 
 
 ### 3. Запуск стандартной tracert
 
-[Запуск с IP](C:\Projects\traceroute\3.png)
+[Запуск с IP](3.png)
 
-![Запуск с доменом](c:\Projects\traceroute\4.png)
+![Запуск с доменом](4.png)
 
 ### 4. Wireshark: общий вид трафика
 
-![Wireshark общий](c:\Projects\traceroute\5.png)
+![Wireshark общий](5.png)
 
 
 
 ### 5. Wireshark: ICMP Echo Request (Type 8)
 
-![Echo Request](c:\Projects\traceroute\6.png)
+![Echo Request](6.png)
 
 
 ### 6. Wireshark: ICMP Time Exceeded (Type 11)
 
-![Time Exceeded](c:\Projects\traceroute\7.png)
+![Time Exceeded](7.png)
 
 
 
 ### 7. Wireshark: ICMP Echo Reply (Type 0)
 
-![Echo Reply](c:\Projects\traceroute\8.png)
+![Echo Reply](8.png)
 
