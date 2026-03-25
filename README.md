@@ -19,7 +19,7 @@ traceroute.exe -d 8.8.8.8  # с обратным DNS
 
 ### 1. Запуск с IP-адресом (8.8.8.8)
 
-![Запуск с IP](C:\Projects\traceroute\1.png)
+![Запуск с IP](1.png)
 
 
 ### 2. Запуск с доменным именем (google.com)
